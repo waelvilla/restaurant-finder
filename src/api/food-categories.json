@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "name": "Appetizers",
+        "isVegetarian": true,
+        "cuisine": "Meal Starters",
+        "image": "https://www.yummyhealthyeasy.com/wp-content/uploads/2018/06/Low-Carb-Avocado-Shrimp-Cucumber-Appetizer-Square.jpg",
+        "price": "10-30 SAR",
+        "label": "4 pieces",
+        "rating": 4
+      },
+      {
+        "id": "2",
+        "name": "Main Courses",
+        "isVegetarian": true,
+        "cuisine": "The Meal",
+        "image": "https://img.delicious.com.au/qDM2WBAw/w759-h506-q80-cfill/del/2015/10/roast-pork-with-apple-and-apricot-stuffing-19303-2.jpg",
+        "price": "30-160 SAR",
+        "label": "1 piece",
+        "rating": 5
+      },
+      {
+        "id": "3",
+        "name": "Side Dishes",
+        "isVegetarian": true,
+        "cuisine": "By the Meal",
+        "image": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/roasted-baby-spring-vegetables-ck.jpg?itok=iFXJc7pW",
+        "price": "10-30 SAR",
+        "label": "2 pieces",
+        "rating": 3
+      },
+      {
+        "id": "4",
+        "name": "Desserts",
+        "isVegetarian": true,
+        "cuisine": "Sweets",
+        "image": "https://www.seriouseats.com/recipes/images/2017/06/20170526-no-bake-cheesecake-vicky-wasik-18-625x469.jpg",
+        "price": "25-50 SAR",
+        "label": "1 plate",
+        "rating": 4
+      },
+      {
+        "id": "5",
+        "name": "Drinks",
+        "isVegetarian": true,
+        "cuisine": "Cold & Hot",
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2017/10/Fruity-Red-Smoothies_exps15737_RDS2677379B02_15_4bC_RMS-1-696x696.jpg",
+        "price": "15-40 SAR",
+        "label": "2 pieces",
+        "rating": 5
+      }
+]

@@ -9,7 +9,7 @@ import {
   Button
 } from "react-native";
 import Constants from "../utils/constants";
-import foodData from "../food-data.json";
+import foodData from "../api/food-data.json";
 import ListItem from "./ListItem";
 import CartButton from "./common/CartButton";
 

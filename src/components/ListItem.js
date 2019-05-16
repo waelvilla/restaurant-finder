@@ -71,16 +71,17 @@ export default class ListItem extends React.Component {
                 color: "#666"
               }}
             >
-              {this.props.cuisine},{" "}
-              {this.props.isVegetarian ? (
+              {this.props.cuisine}{" "}
+              {this.props.isVegetarian? (
                 <Text style={{ color: "#4caf50", fontWeight: "bold" }}>
-                  Veg
+                  ,Veg
                 </Text>
-              ) : (
+              ) :this.props.isVegetarian===false? (
                 <Text style={{ color: "#a92319", fontWeight: "bold" }}>
-                  Non-Veg
+                  ,Non-Veg
                 </Text>
-              )}
+              ):null
+              }
             </Text>
             <Text
               style={{

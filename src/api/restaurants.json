@@ -1,92 +1,56 @@
 [
   {
     "id": "1",
-    "name": "Adyar Ananda Bhavan",
-    "isVegetarian": true,
-    "cuisine": "South Indian",
-    "image": "https://res.cloudinary.com/sivadass/image/upload/v1535181121/dummy-products/restaurants/adayar-anandha-bhavan.jpg",
+    "name": "Tokyo Restaurant",
+    "isVegetarian": false,
+    "cuisine": "Japanese",
+    "image": "https://bluehashi.com/wp-content/uploads/2018/09/AdobeStock_105942165-1024x683.jpg",
     "rating": 4,
-    "location": "Velacherry"
+    "location": "Al Urubah"
   },
   {
     "id": "2",
-    "name": "Anjappar",
-    "isVegetarian": false,
-    "cuisine": "South Indian",
-    "image": "https://res.cloudinary.com/sivadass/image/upload/v1535181121/dummy-products/restaurants/anjappar.jpg",
+    "name": "Al Orjouan",
+    "isVegetarian": true,
+    "cuisine": "Middle Eastern",
+    "image": "https://ritzcarlton-h.assetsadobe.com/is/image/content/dam/the-ritz-carlton/hotels/middle-east-and-africa/saudi-arabia/riyadh/dining/50556723-RUHRZ_2018_0750.png?$LargeViewport100pct$",
     "rating": 3,
-    "location": "Okkiyampet"
+    "location": "Al Hada"
   },
   {
     "id": "3",
-    "name": "Buhari Hotel",
+    "name": "Zafran Indian Bistro",
     "isVegetarian": false,
-    "cuisine": "North Indian",
-    "image": "https://res.cloudinary.com/sivadass/image/upload/v1535181119/dummy-products/restaurants/buhari.jpg",
+    "cuisine": "Indian",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/4d/a1/96/zafran-indian-bistro.jpg",
     "rating": 4,
-    "location": "Karapakkam"
+    "location": "Turki Square Mall"
   },
   {
     "id": "4",
-    "name": "Sree Gupta Bhavan",
+    "name": "Hong Restaurant",
     "isVegetarian": true,
-    "cuisine": "North Indian",
-    "image": "https://res.cloudinary.com/sivadass/image/upload/v1535181121/dummy-products/restaurants/gupta-bhavan.jpg",
-    "rating": 5,
-    "location": "SRP Tools"
+    "cuisine": "Chinese",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/61/9a/ff/hong-restaurant.jpg",
+    "rating": 4,
+    "location": "The Ritz-Carlton"
   },
   {
     "id": "5",
-    "name": "Hot Chips",
-    "isVegetarian": true,
-    "cuisine": "South Indian",
-    "image": "http://res.cloudinary.com/sivadass/image/upload/v1535181126/dummy-products/restaurants/hot-chips.jpg",
+    "name": "The Globe",
+    "isVegetarian": false,
+    "cuisine": "European",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/39/cf/b5/the-globe.jpg",
     "rating": 5,
-    "location": "Thiruvanmiyur"
+    "location": "Al Faisaliah Tower"
   },
   {
     "id": "6",
-    "name": "Paradise Briyani",
+    "name": "Steak House",
     "isVegetarian": false,
-    "cuisine": "South Indian",
-    "image": "https://res.cloudinary.com/sivadass/image/upload/v1535181121/dummy-products/restaurants/paradise.jpg",
+    "cuisine": "Steak",
+    "image": "https://thegrand.moonpalace.com/sites/default/files/jc-steakhouse-grand-moon-1224x544-10-ene-18.jpg",
     "rating": 4,
-    "location": "SRP Tools"
-  },
-  {
-    "id": "7",
-    "name": "Saravana Bhavan",
-    "isVegetarian": true,
-    "cuisine": "South Indian",
-    "image": "https://res.cloudinary.com/sivadass/image/upload/v1535181121/dummy-products/restaurants/saravana-bhavan.jpg",
-    "rating": 5,
-    "location": "Kandan Chavadi"
-  },
-  {
-    "id": "8",
-    "name": "Dindigul Thalappakatti",
-    "isVegetarian": false,
-    "cuisine": "South Indian",
-    "image": "https://res.cloudinary.com/sivadass/image/upload/v1535181123/dummy-products/restaurants/thalapakatti.jpg",
-    "rating": 3,
-    "location": "Karapakkam"
-  },
-  {
-    "id": "9",
-    "name": "Thambi Vilas",
-    "isVegetarian": false,
-    "cuisine": "South Indian",
-    "image": "https://res.cloudinary.com/sivadass/image/upload/v1535181123/dummy-products/restaurants/thambi-vilas.jpg",
-    "rating": 5,
-    "location": "Okkiyampet"
-  },
-  {
-    "id": "10",
-    "name": "Vasantha Bhavan",
-    "isVegetarian": true,
-    "cuisine": "South Indian",
-    "image": "https://res.cloudinary.com/sivadass/image/upload/v1535181123/dummy-products/restaurants/vasantha-bhavan.jpg",
-    "rating": 4,
-    "location": "Adyar"
+    "location": "Granada Mall"
   }
 ]

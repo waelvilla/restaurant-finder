@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1",
+    "name": "Garlic Bread",
+    "isVegetarian": true,
+    "cuisine": "Southeast Asian",
+    "image": "https://rasamalaysia.com/wp-content/uploads/2019/03/skillet-garlic-bread-thumb.jpg",
+    "price": "15 SAR",
+    "label": "4 pieces",
+    "rating": 4
+  },
+  {
+    "id": "2",
+    "name": "Onion Rings",
+    "isVegetarian": true,
+    "cuisine": "European",
+    "image": "https://thecozyapron.com/wp-content/uploads/2013/04/onion-rings_thecozyapron_1.jpg",
+    "price": "15 SAR",
+    "label": "6 pieces",
+    "rating": 5
+  },
+  {
+    "id": "3",
+    "name": "Empanadas",
+    "isVegetarian": false,
+    "cuisine": "Middleastern",
+    "image": "https://www.curiouscuisiniere.com/wp-content/uploads/2017/05/Empanadas-de-Pino-2138.21.jpg",
+    "price": "20 SAR",
+    "label": "2 pieces",
+    "rating": 3
+  },
+  {
+    "id": "4",
+    "name": "Steak",
+    "isVegetarian": false,
+    "cuisine": "American",
+    "image": "https://d1doqjmisr497k.cloudfront.net/-/media/mccormickcan/recipes/tablet/cinnamon_steak_rub_800.ashx?vd=20180617T022438Z&hash=DC99503EA289ABA48E49F5A91C80EEE752F9EB2C",
+    "price": "45 SAR",
+    "label": "1 plate",
+    "rating": 4
+  },
+  {
+    "id": "5",
+    "name": "Chicken Parmesian Pasta",
+    "isVegetarian": false,
+    "cuisine": "Italian",
+    "image": "https://readyseteat.com/sites/g/files/qyyrlu501/files/uploadedImages/img_4740_1599.jpg",
+    "price": "41 SAR",
+    "label": "1 plate",
+    "rating": 5
+  },
+  {
+    "id": "6",
+    "name": "Paneer Butter Masala",
+    "isVegetarian": false,
+    "cuisine": "North Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611354/dummy-products/food/paneer-butter-masala.jpg",
+    "price": "59 SAR",
+    "label": "1 bowl",
+    "rating": 4
+  },
+  {
+    "id": "7",
+    "name": "Honey-Glazed Carrots",
+    "isVegetarian": true,
+    "cuisine": "European",
+    "image": "http://www.texaskoa.com/k/2018/05/70-easy-easter-side-dishes-recipes-for-easter-dinner-sides-throughout-impressive-ham-dinner-side-dishes-applied-to-your-house-concept-300x300.jpg",
+    "price": "30 SAR",
+    "label": "4 pieces",
+    "rating": 5
+  },
+  {
+    "id": "8",
+    "name": "Crispy Roast Potatoes",
+    "isVegetarian": true,
+    "cuisine": "Korean",
+    "image": "https://www.seriouseats.com/recipes/images/2016/12/20161201-crispy-roast-potatoes-29-625x469.jpg",
+    "price": "20 SAR",
+    "label": "1 plate",
+    "rating": 2
+  },
+  {
+    "id": "9",
+    "name": "Garlic Mushroom",
+    "isVegetarian": true,
+    "cuisine": "Souteast Asian",
+    "image": "https://www.dinneratthezoo.com/wp-content/uploads/2018/01/garlic-mushrooms-3.jpg",
+    "price": "20 SAR",
+    "label": "1/2 plate",
+    "rating": 5
+  },
+  {
+    "id": "10",
+    "name": "Banana Split",
+    "cuisine": "Italian",
+    "image": "https://assets.marthastewart.com/styles/wmax-1500/d37/tropical-banana-splits-0308-med103553/tropical-banana-splits-0308-med103553_sq.jpg?itok=XPEbYp6-",
+    "price": "25 SAR",
+    "label": "1 plate",
+    "rating": 4
+  },
+  {
+    "id": "11",
+    "name": "Cheesecake ",
+    "cuisine": "American",
+    "image": "https://www.seriouseats.com/recipes/images/2017/06/20170526-no-bake-cheesecake-vicky-wasik-18-625x469.jpg",
+    "price": "30 SAR",
+    "label": "1 plate",
+    "rating": 3
+  },
+  {
+    "id": "12",
+    "name": "Fudge Ice-Cream",
+    "cuisine": "European",
+    "image": "https://images-gmi-pmc.edge-generalmills.com/7c1096c7-bfd0-4806-a794-1d3001fe0063.jpg",
+    "price": "40 SAR",
+    "label": "1 plate",
+    "rating": 5
+  },
+  {
+    "id": "13",
+    "name": "Red Fruity Smoothie",
+    "image": "https://www.tasteofhome.com/wp-content/uploads/2017/10/Fruity-Red-Smoothies_exps15737_RDS2677379B02_15_4bC_RMS-1-696x696.jpg",
+    "price": "30 SAR",
+    "label": "1 cup",
+    "rating": 4
+  },
+  {
+    "id": "14",
+    "name": "Strawberry Smoothie",
+    "cuisine": "European",
+    "image": "https://downshiftology.com/wp-content/uploads/2018/08/strawberry-banana-smoothie-4.jpg",
+    "price": "33 SAR",
+    "label": "1 cup",
+    "rating": 3
+  },
+  {
+    "id": "15",
+    "name": "Hot Chocolate",
+    "cuisine": "European",
+    "image": "https://d1doqjmisr497k.cloudfront.net/-/media/mccormick-us/recipes/gourmet/m/800/mexican-hot-chocolate.ashx?vd=20180710T022415Z&hash=2FCC12280DBCC8D004FCED8C5676D05ECB9B75EF",
+    "price": "30 SAR",
+    "label": "1 cup",
+    "rating": 4
+  }
+]

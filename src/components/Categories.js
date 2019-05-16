@@ -5,50 +5,55 @@ import {
   View,
   FlatList,
   Image,
-  TouchableOpacity
+  TouchableOpacity,
+  Button
 } from "react-native";
-import restaurantsData from "../api/restaurants.json";
-import RestaurantItem from "./RestaurantItem";
+import Constants from "../utils/constants";
+import foodData from "../api/food-categories.json";
+import ListItem from "./ListItem";
 import CartButton from "./common/CartButton";
 
-export default class Restaurants extends React.Component {
+export default class Categories extends React.Component {
   constructor(props) {
     super(props);
+    this.state={
+      clickedCategory: ""
+    }
   }
+
   static navigationOptions = ({ navigation }) => {
     return {
-      headerTitle: "Restaurants",
+      headerTitle: "Menu",
       headerStyle: {
         elevation: 0,
         shadowOpacity: 0
       },
-      // headerRight: (
-      //   <CartButton
-      //     onPress={() => {
-      //       navigation.navigate("Cart");
-      //     }}
-      //   />
-      // )
+      headerRight: (
+        <CartButton
+          onPress={() => {
+            navigation.navigate("Cart");
+          }}
+        />
+      )
     };
   };
 
-
   handleNaviagation = () => {
-    this.props.navigation.navigate("Categories");
+    this.props.navigation.navigate("Dishes");
   };
+
   render() {
     return (
       <View style={styles.container}>
         <FlatList
-          data={restaurantsData}
+          data={foodData}
           keyExtractor={item => item.id}
           renderItem={({ item }) => (
-            <RestaurantItem
+            <ListItem
               name={item.name}
               image={item.image}
               cuisine={item.cuisine}
-              location={item.location}
-              isVegetarian={item.isVegetarian}
+              price= {item.price}
               handleNaviagation={this.handleNaviagation}
             />
           )}
