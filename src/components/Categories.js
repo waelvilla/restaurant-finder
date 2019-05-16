@@ -28,13 +28,13 @@ export default class Categories extends React.Component {
         elevation: 0,
         shadowOpacity: 0
       },
-      headerRight: (
-        <CartButton
-          onPress={() => {
-            navigation.navigate("Cart");
-          }}
-        />
-      )
+      // headerRight: (
+      //   <CartButton
+      //     onPress={() => {
+      //       navigation.navigate("Cart");
+      //     }}
+      //   />
+      // )
     };
   };
 
